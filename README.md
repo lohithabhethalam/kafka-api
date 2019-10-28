@@ -163,7 +163,7 @@ mvn clean compile assembly:single
 Open PowerShell as Administrator in the root project folder, start the original consumer app using topic test and group1 with:
 
 ```PowerShell
-java -cp target/kafka-api-1.0-SNAPSHOT-jar-with-dependencies.jar com.spnotes.kafka.simple.Consumer test group1
+java -cp target/kafka-api-1.0-SNAPSHOT-jar-with-dependencies.jar com.spnotes.kafka.lohitha.CustomConsumer test group1
 ```
 
 ## Start Producer
@@ -171,7 +171,7 @@ java -cp target/kafka-api-1.0-SNAPSHOT-jar-with-dependencies.jar com.spnotes.kaf
 Open a new PowerShell as Administrator in the root project folder, start the Producer app using topic test:
 
 ```PowerShell
-java -cp target/kafka-api-1.0-SNAPSHOT-jar-with-dependencies.jar com.spnotes.kafka.simple.Producer test
+java -cp target/kafka-api-1.0-SNAPSHOT-jar-with-dependencies.jar com.spnotes.kafka.lohitha.CustomProducer test
 ```
 
 ## Test Communications
