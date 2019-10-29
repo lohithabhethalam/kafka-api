@@ -185,6 +185,6 @@ java -cp target/kafka-api-1.0-SNAPSHOT-jar-with-dependencies.jar com.spnotes.kaf
 
 ## Reference
 
-See <https://bitbucket.org/professorcase/h07>.
-See <https://bitbucket.org/professorcase/h07>.
-See <https://bitbucket.org/professorcase/h08>.
+1. See <https://bitbucket.org/professorcase/h07>.
+1. See <https://bitbucket.org/professorcase/h07>.
+1. See <https://bitbucket.org/professorcase/h08>.
